@@ -25,7 +25,7 @@ Você também pode adicionar e modificar os seguintes parâmetros e hiperparâme
 
 `python questaobonus.py --n_future 20 --epochs 100 --neurons 13 --offset 2 --look_back 5`
 
-Os valores acima são padrões, mas podem ser modificados, cada um desses parâmetros ou hiperparâmetros representam :
+Os valores acima são padrões e opcionais, mas podem ser modificados, cada um desses parâmetros ou hiperparâmetros representam :
 
 - `n_future`: quantidade de amostras futuras que serão previstas
 
