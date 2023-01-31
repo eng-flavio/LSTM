@@ -1,0 +1,17 @@
+# Usage: pip install -r requirements.txt
+
+# Base ----------------------------------------
+matplotlib
+numpy
+scipy
+tqdm
+warnings
+mlflow
+argparse
+webbrowser
+sklearn
+logging
+pandas 
+subprocess
+tensorflow 
+keras
