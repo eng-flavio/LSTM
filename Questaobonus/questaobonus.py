@@ -104,6 +104,18 @@ if __name__ == "__main__":
         mlflow.log_param("Future Samples", n_future)
         mlflow.log_param("Offset", offset)
         mlflow.log_param("Epochs", epochs)
+        mlflow.log_param("neurons", neurons)
+        
+        if tracking_url_type_store != "file":
+
+            # Register the model
+            # There are other ways to use the Model Registry, which depends on the use case,
+            # please refer to the doc for more information:
+            # https://mlflow.org/docs/latest/model-registry.html#api-workflow
+            mlflow.sklearn.log_model(lr, "model", registered_model_name="ElasticnetWineModel")
+        else:
+            mlflow.sklearn.log_model(lr, "model")
 
         #Inicia a interface do MLflow
         subprocess.run(["mlflow", "ui"])
+        
