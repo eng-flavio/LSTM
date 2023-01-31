@@ -23,7 +23,7 @@ Você também pode adicionar e modificar os seguintes parâmetros e hiperparâme
 
 **shell**:
 
-`python questaobonus.py --n_future 20 --epochs 100 --neurons 13 offset 2 look_back 5`
+`python questaobonus.py --n_future 20 --epochs 100 --neurons 13 --offset 2 --look_back 5`
 
 Os valores acima são padrões, mas podem ser modificados, cada um desses parâmetros ou hiperparâmetros representam :
 
