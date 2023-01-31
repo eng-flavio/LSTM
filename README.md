@@ -36,3 +36,5 @@ Os valores acima são padrões e opcionais, mas podem ser modificados, cada um d
 - `offset`: *offset* de amostras anteriores que não serão utilizadas na previsão
 
 - `look_back`: quantidade de amostras anteriores utilizadas para previsão das amostras futuras
+
+Após o treinamento ser sucedido clique no *link* gerado no `terminal` ou acesse *https://my-server:5000* para visualizar os resultados gerados no `mlflow`.
