@@ -1,4 +1,4 @@
-# PROCESSO DE SELAÇÃO PARA O CARGO DE CIENTISTA DE DADOS I
+# PROCESSO DE SELEÇÃO PARA O CARGO DE CIENTISTA DE DADOS I
 Experimento realizado na seleção para o cargo de Cientista de Dados I na Federação das Indústrias do Estado do Ceará (FIEC). Esse experimento exige que o candidato utilize séries temporais para previsão de amostras futuras de um determinado atributo contido em um *dataset* gerado pelo Instituto Max Planck de Biogeoquímica. Para tanto, foram utilizados as Redes Neurais Recorrentes(RNN)  Long Short Term Memory(LSTM).
 
 ## Requisitos
