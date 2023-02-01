@@ -1,5 +1,5 @@
 # PROCESSO DE SELEÇÃO PARA O CARGO DE CIENTISTA DE DADOS I
-Experimento realizado para seleção do cargo de Cientista de Dados I na Federação das Indústrias do Estado do Ceará (FIEC). Esse experimento exige que o candidato utilize séries temporais para previsão de amostras futuras de um determinado atributo contido em um *dataset* gerado pelo Instituto Max Planck de Biogeoquímica. Para tanto, foram utilizados as Redes Neurais Recorrentes(RNN)  Long Short Term Memory(LSTM).
+Experimento realizado para seleção do cargo de Cientista de Dados I na Federação das Indústrias do Estado do Ceará (FIEC). Esse experimento exige que o candidato utilize séries temporais para previsão de amostras futuras de um determinado atributo contido em um *dataset* gerado pelo Instituto Max Planck de Biogeoquímica. Para tanto, foram utilizados as Redes Neurais Recorrentes (RNN)  Long Short Term Memory (LSTM).
 
 ## Requisitos
 O experimento requer a versão  `3.9.16` do python. Todos os testes foram realizados no Sistema Operacional Windows 11. Recomenda-se a criação de um ambiente à parte.
