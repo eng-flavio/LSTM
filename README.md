@@ -10,12 +10,6 @@ Para ter certeza que todos os requisitos necessários para o experimento estão 
 
 `pip install -r requirements.txt`
 
-Para o sistema Linux também é necessário instalar a seguinte dependência:
-
-**shell**:
-
-`sudo apt-get install libsnappy-dev`
-
 ## Questão 1
 A questão 1 é referente à criação de um notebook para previsão de séries temporais. Para dar início à apresentação, basta acessar o arquivo `.ipynb`. 
 
