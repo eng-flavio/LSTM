@@ -12,16 +12,3 @@ scikit-learn
 pandas 
 tensorflow 
 keras
-bcrypt
-boto3
-cloudpickle
-defusedxml
-dill
-fsspec
-google-cloud-storage
-lz4
-pathlib
-pyopenssl
-python-snappy
-tblib
-cryptography==38.0.4
