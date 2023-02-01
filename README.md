@@ -17,7 +17,7 @@ Para o sistema Linux também é necessário instalar a seguinte dependência:
 `sudo apt-get install libsnappy-dev`
 
 ## Questão 1
-A questão 1 é referente à criação de um notebook para previsão de séries temporais. Para dar início à apresentação, basta executar o arquivo `.ipynb`. 
+A questão 1 é referente à criação de um notebook para previsão de séries temporais. Para dar início à apresentação, basta acessar o arquivo `.ipynb`. 
 
 ## Questão 2
 Essa questão visa o uso da ferramenta *mlflow* para realizar o mesmo tipo de processamento.  Para executar a questão bônus, execute o seguinte comando no terminal no diretório da questão:
