@@ -44,4 +44,6 @@ Os valores acima são padrões e opcionais, mas podem ser modificados, cada um d
 
 - `look_back`: quantidade de amostras anteriores utilizadas para previsão das amostras futuras
 
+Alguns atributos foram fixados, por exemplo o `batch_size`, mas podem facilmente serem alterados no arquivo `questaobonus.py`.
+
 Após o treinamento ser sucedido clique no *link* gerado no `terminal` ou acesse *https://my-server:5000* para visualizar os resultados gerados no `mlflow`.
