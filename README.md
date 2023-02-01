@@ -11,6 +11,7 @@ Para ter certeza que todos os requisitos necessários para o experimento estão 
 `pip install -r requirements.txt`
 
 Para o sistema Linux também é necessário instalar a seguinte dependência:
+
 **shell**:
 
 `sudo apt-get install libsnappy-dev`
