@@ -1,8 +1,8 @@
 # PROCESSO DE SELEÇÃO PARA O CARGO DE CIENTISTA DE DADOS I
-Experimento realizado na seleção para o cargo de Cientista de Dados I na Federação das Indústrias do Estado do Ceará (FIEC). Esse experimento exige que o candidato utilize séries temporais para previsão de amostras futuras de um determinado atributo contido em um *dataset* gerado pelo Instituto Max Planck de Biogeoquímica. Para tanto, foram utilizados as Redes Neurais Recorrentes(RNN)  Long Short Term Memory(LSTM).
+Experimento realizado para seleção do cargo de Cientista de Dados I na Federação das Indústrias do Estado do Ceará (FIEC). Esse experimento exige que o candidato utilize séries temporais para previsão de amostras futuras de um determinado atributo contido em um *dataset* gerado pelo Instituto Max Planck de Biogeoquímica. Para tanto, foram utilizados as Redes Neurais Recorrentes(RNN)  Long Short Term Memory(LSTM).
 
 ## Requisitos
-O experimento requer a versão  `3.9.16` do python. Todos os testes foram realizados no Sistema Operacional Windows 11.
+O experimento requer a versão  `3.9.16` do python. Todos os testes foram realizados no Sistema Operacional Windows 11. Recomenda-se a criação de um ambiente à parte.
 
 Para ter certeza que todos os requisitos necessários para o experimento estão instalados, execute o seguinte  comando no seu ambiente no diretório principal do projeto
 
@@ -32,7 +32,7 @@ Você também pode adicionar e modificar os seguintes parâmetros e hiperparâme
 
 `python questaobonus.py --n_future 20 --epochs 100 --neurons 13 --offset 2 --look_back 5`
 
-Os valores acima são padrões e opcionais, mas podem ser modificados, cada um desses parâmetros ou hiperparâmetros representam :
+Os valores acima são padrões e opcionais, mas podem ser modificados, cada um desses parâmetros ou hiperparâmetros representam:
 
 - `n_future`: quantidade de amostras futuras que serão previstas
 
