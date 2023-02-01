@@ -2,12 +2,18 @@
 Experimento realizado na seleção para o cargo de Cientista de Dados I na Federação das Indústrias do Estado do Ceará (FIEC). Esse experimento exige que o candidato utilize séries temporais para previsão de amostras futuras de um determinado atributo contido em um *dataset* gerado pelo Instituto Max Planck de Biogeoquímica. Para tanto, foram utilizados as Redes Neurais Recorrentes(RNN)  Long Short Term Memory(LSTM).
 
 ## Requisitos
-Para ter certeza que todos os requisitos necessários para o experimento estão instalados, execute o seguinte  comando no seu ambiente, no diretório principal do projeto
+O experimento requer a versão  `3.9.16` do python. Todos os testes foram realizados no Sistema Operacional Windows 11.
+
+Para ter certeza que todos os requisitos necessários para o experimento estão instalados, execute o seguinte  comando no seu ambiente no diretório principal do projeto
 
 **shell**:
 
 `pip install -r requirements.txt`
 
+Para o sistema Linux também é necessário instalar a seguinte dependência:
+**shell**:
+
+`sudo apt-get install libsnappy-dev`
 
 ## Questão 1
 A questão 1 é referente à criação de um notebook para previsão de séries temporais. Para dar início à apresentação, basta executar o arquivo `.ipynb`. 
