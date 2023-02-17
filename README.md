@@ -10,11 +10,11 @@ Para ter certeza que todos os requisitos necessários para o experimento estão 
 
 `pip install -r requirements.txt`
 
-## Questão 1
-A questão 1 é referente à criação de um notebook para previsão de séries temporais. Para dar início à apresentação, basta acessar o arquivo `.ipynb`. 
+## Arquivo `main_ntb.ipynb`
+O arquivo em questão referente à criação de um notebook para previsão de séries temporais. Para dar início à apresentação, basta acessar o arquivo `main_ntb.ipynb`. 
 
-## Questão 2
-Essa questão visa o uso da ferramenta *mlflow* para realizar o mesmo tipo de processamento.  Para executar a questão bônus, execute o seguinte comando no terminal no diretório da questão:
+## Arquivo mlflowscript.py
+Esse arquivo visa o uso da ferramenta *mlflow* para realizar o mesmo tipo de processamento.  Para executar o arquivo, execute o seguinte comando no terminal no diretório da questão:
 
 **shell**:
 
