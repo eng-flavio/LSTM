@@ -1,4 +1,4 @@
-# LSTM utilizado na previsão de temperatura
+# Uilizando LSTM para previsão de temperatura
 Experimento que usa séries temporais para previsão de amostras futuras de um determinado atributo contido em um *dataset* gerado pelo Instituto Max Planck de Biogeoquímica. Para tanto, foram utilizados as Redes Neurais Recorrentes (RNN)  Long Short Term Memory (LSTM).
 
 ## Requisitos
